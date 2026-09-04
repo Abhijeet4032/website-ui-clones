@@ -1,2 +1,16 @@
-# website-ui-clones
-I’m currently learning frontend development and this repository is a collection of my beginner practice projects where I recreate the user interfaces of popular websites using only HTML and CSS. These clones are not fully functional websites, but visual recreations made to understand and practice core concepts like layout, positioning, flexbox, grid, responsiveness, styling, and clean file structure.  Each folder in this repo represents a separate project and shows my progress as I keep learning and improving my frontend skills. This is part of my journey to build a strong foundation in web development before moving on to JavaScript and more advanced tools and frameworks.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
